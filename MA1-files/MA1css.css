@@ -1,0 +1,112 @@
+/* Background Color */
+body {
+background-color:rgb(165, 157, 150);
+}
+
+/* Navigation Bar */
+#nav { 
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    list-style: none;
+    background-color: black;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+}
+
+#nav li {
+    display: inline-block;
+    text-align: center;
+}
+
+#nav li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color:rgb(211, 204, 199);
+    border-right: 1px solid #000;
+}
+
+li a:hover {
+    background-color:rgb(165, 157, 150); 
+}
+
+/* Margins */
+p {
+    margin-left: 28%;
+    margin-right: 28%;
+}
+
+/* (PAGE TITLE) The Bare Minimum */
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    font-size: 370%;
+    text-align: center; 
+}
+
+/* (SUBTITLE) Architecture, Funriture & Design */
+h3 {
+    color: rgb(211, 204, 199);
+    font-family:'Josefin Sans', sans-serif;
+    font-size: 115%;
+    text-align: center;
+}
+
+/* Margins */
+h1 {
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+/*(SECTION HEADER) Minimalism: What is it?*/
+
+p {
+    color:rgb(0, 0, 0);
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 140%;
+}
+
+/* Paragraph Text (Minimalism... it?*/
+h4 {
+    color:black;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 180%;
+}
+
+/* Picture Subtitle(s) */
+h2 { 
+    color: rgb(211, 204, 199);
+    font-family:'Josefin Sans', sans-serif;
+    font-size: 100%;
+    text-align: center;
+}
+
+/* Image Borders */
+img {
+    border: 5px solid #000;
+}
+
+/* (SECTION HEADER) Minimalism: Furniture Design */
+h4 {
+    color: rgb(0, 0, 0);
+    font-family: 
+    font-size: 140%;
+    text-align: center;
+}
+
+
+/* (SECTION HEADER) Minimalism: Interior Design */
+h4 {
+    color: rgb(0, 0, 0);
+    font-family:'Josefin Sans', sans-serif;
+    font-size: 180%;
+    text-align: center;
+}
